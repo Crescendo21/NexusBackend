@@ -1,0 +1,112 @@
+{
+    "characters": [
+        {
+            "name": "Harry Potter",
+            "stats": {
+                "Force": 10,
+                "Intelligence": 12,
+                "Charisme": 11,
+                "Constitution": 13,
+                "Sagesse ": 16,
+                "Dexterite": 12,
+                "Perception": 10
+            },
+            "health": {
+                "vie_max": 20,
+                "vie_actuelle": 20,
+                "mana_max": 30,
+                "mana_actuel": 30
+            },
+            "inventory": {
+                "weapons": ["baguette"],
+                "armor": ["cape"],
+                "items": ["potion de vie", "potion de mana"]
+            },
+            "skills": {
+                "sorts": ["Expelliarmus", "Wingardium Leviosa"],
+                "talents": ["Quidditch", "Parseltongue"]
+            }
+        },
+        {
+            "name": "Hermione Granger",
+            "stats": {
+                "Force": 10,
+                "Intelligence": 12,
+                "Charisme": 11,
+                "Constitution": 13,
+                "Sagesse ": 16,
+                "Dexterite": 12,
+                "Perception": 10
+            },
+            "health": {
+                "vie_max": 20,
+                "vie_actuelle": 20,
+                "mana_max": 30,
+                "mana_actuel": 30
+            },
+            "inventory": {
+                "weapons": ["baguette"],
+                "armor": ["cape"],
+                "items": ["potion de vie", "potion de mana"]
+            },
+            "skills": {
+                "sorts": ["Expelliarmus", "Wingardium Leviosa"],
+                "talents": ["Quidditch", "Parseltongue"]
+            }
+        },
+        {
+            "name": "Ron Weasley",
+            "stats": {
+                "Force": 10,
+                "Intelligence": 12,
+                "Charisme": 11,
+                "Constitution": 13,
+                "Sagesse ": 16,
+                "Dexterite": 12,
+                "Perception": 10
+            },
+            "health": {
+                "vie_max": 20,
+                "vie_actuelle": 20,
+                "mana_max": 30,
+                "mana_actuel": 30
+            },
+            "inventory": {
+                "weapons": ["baguette"],
+                "armor": ["cape"],
+                "items": ["potion de vie", "potion de mana"]
+            },
+            "skills": {
+                "sorts": ["Expelliarmus", "Wingardium Leviosa"],
+                "talents": ["Quidditch", "Parseltongue"]
+            }
+        },
+        {
+            "name": "Argus Filch",
+            "stats": {
+                "Force": 10,
+                "Intelligence": 12,
+                "Charisme": 11,
+                "Constitution": 13,
+                "Sagesse ": 16,
+                "Dexterite": 12,
+                "Perception": 10
+            },
+            "health": {
+                "vie_max": 20,
+                "vie_actuelle": 20,
+                "mana_max": 30,
+                "mana_actuel": 30
+            },
+            "inventory": {
+                "weapons": ["baguette"],
+                "armor": ["cape"],
+                "items": ["potion de vie", "potion de mana"]
+            },
+            "skills": {
+                "sorts": ["Expelliarmus", "Wingardium Leviosa"],
+                "talents": ["Quidditch", "Parseltongue"]
+            }
+        }
+    ]
+}
